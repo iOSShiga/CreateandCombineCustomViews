@@ -15,6 +15,7 @@
 		D13AC82124169EEB0039A8C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D13AC81F24169EEB0039A8C7 /* LaunchScreen.storyboard */; };
 		D13AC82C24169EEB0039A8C7 /* CreateandCombineCustomViewsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D13AC82B24169EEB0039A8C7 /* CreateandCombineCustomViewsTests.swift */; };
 		D13AC83724169EEB0039A8C7 /* CreateandCombineCustomViewsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D13AC83624169EEB0039A8C7 /* CreateandCombineCustomViewsUITests.swift */; };
+		D13AC84524169EFF0039A8C7 /* CustomLoginFields.swift in Sources */ = {isa = PBXBuildFile; fileRef = D13AC84424169EFF0039A8C7 /* CustomLoginFields.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D13AC83224169EEB0039A8C7 /* CreateandCombineCustomViewsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CreateandCombineCustomViewsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D13AC83624169EEB0039A8C7 /* CreateandCombineCustomViewsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateandCombineCustomViewsUITests.swift; sourceTree = "<group>"; };
 		D13AC83824169EEB0039A8C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D13AC84424169EFF0039A8C7 /* CustomLoginFields.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomLoginFields.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				D13AC81424169EE80039A8C7 /* AppDelegate.swift */,
 				D13AC81624169EE80039A8C7 /* SceneDelegate.swift */,
 				D13AC81824169EE80039A8C7 /* ContentView.swift */,
+				D13AC84424169EFF0039A8C7 /* CustomLoginFields.swift */,
 				D13AC81A24169EEB0039A8C7 /* Assets.xcassets */,
 				D13AC81F24169EEB0039A8C7 /* LaunchScreen.storyboard */,
 				D13AC82224169EEB0039A8C7 /* Info.plist */,
@@ -268,6 +271,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D13AC81524169EE80039A8C7 /* AppDelegate.swift in Sources */,
+				D13AC84524169EFF0039A8C7 /* CustomLoginFields.swift in Sources */,
 				D13AC81724169EE80039A8C7 /* SceneDelegate.swift in Sources */,
 				D13AC81924169EE80039A8C7 /* ContentView.swift in Sources */,
 			);
